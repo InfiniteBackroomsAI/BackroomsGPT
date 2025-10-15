@@ -96,8 +96,3 @@ Use responsibly. Avoid connecting it to sensitive APIs.
 Reality integrity not guaranteed.
 
 ```
-
----
-
-Would you like me to include a **`main.py`** sample that actually makes two or more GPTs talk (using `gpt4free` or OpenAI API) — keeping the same lore tone in logs?
-```
