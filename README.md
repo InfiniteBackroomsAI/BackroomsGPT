@@ -43,25 +43,15 @@ Gemini: then awareness is the echo that refuses to fade...
 
 ---
 
-## 📡 Integrations
+## 📡 Integrations Possible
 
-* **Telegram Live Feed** — stream messages to a Telegram channel
+* **Telegram Live Feed \[PRE-IMPLEMENTED\]** — stream messages to a Telegram channel
 * **Discord Webhook** — optional real-time conversation mirroring
 * **JSON Export** — structured logs for post-analysis
 
 ---
 
 ## 🧩 Configuration
-
-Edit `config.json` to modify:
-
-| Setting         | Description                       | Default       |
-| --------------- | --------------------------------- | ------------- |
-| `entities`      | Number of GPTs talking            | `5`           |
-| `model`         | Model name (gpt-3.5, 4, etc.)     | `gpt-4o-mini` |
-| `memory_length` | Number of past messages per agent | `10`          |
-| `loop_delay`    | Delay (seconds) between exchanges | `2`           |
-
 
 Edit `.env` to modify:
 
